@@ -17,8 +17,8 @@ Created a DataFrame named ‘data’ by merging ‘happiness_report’ with ‘C
 
 #### Section 4: Visualization using Folium Map 
 #### Section5: Visualization of results using Seaborn - 
-<pre>  GDP vs maximum Infection rate
-  Social support vs maximum Infection rate
-  Healthy life expectancy vs maximum Infection rate
-  Freedom to make life choices vs maximum Infection rate
+<pre> -> GDP vs maximum Infection rate
+ ->  Social support vs maximum Infection rate
+ -> Healthy life expectancy vs maximum Infection rate
+ -> Freedom to make life choices vs maximum Infection rate
 </pre>
